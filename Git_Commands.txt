@@ -133,5 +133,9 @@ Delete the remote branch in git
  git push origin --delete <remote branch name>
  git push origin --delete <next>
  git branch -a
+ 
+ Change the branch name
+ 
+ git branch -m "New Branch Name"
 
 
